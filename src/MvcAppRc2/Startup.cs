@@ -68,7 +68,6 @@ namespace MvcAppRc2
             {
                 app.UseDeveloperExceptionPage();
                 app.UseDatabaseErrorPage();
-                app.UseBrowserLink();
             }
             else
             {
