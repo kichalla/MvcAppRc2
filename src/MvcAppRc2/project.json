@@ -14,10 +14,6 @@
       "version": "1.0.0-*",
       "type": "build"
     },
-    "dotnet-razor-tooling": {
-      "version": "1.0.0-*",
-      "type": "build"
-    },
     "Microsoft.AspNetCore.Authentication.Cookies": "1.0.0-*",
     "Microsoft.AspNetCore.Diagnostics": "1.0.0-*",
     "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "1.0.0-*",
@@ -46,10 +42,6 @@
       ]
     },
     "dotnet-ef": {
-      "version": "1.0.0-*",
-      "imports": "portable-net45+win8+dnxcore50"
-    },
-    "dotnet-razor-tooling": {
       "version": "1.0.0-*",
       "imports": "portable-net45+win8+dnxcore50"
     },
